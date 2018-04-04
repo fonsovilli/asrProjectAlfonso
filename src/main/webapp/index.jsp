@@ -7,11 +7,14 @@
 <title>Proyecto ASR...</title>
 </head>
 <body>
-<h1>Ejemplo de Proyecto de ASR</h1>
+<h1>Ejemplo de Proyecto de ASR ALFONO</h1>
 <p>Opciones:</p>
 <ul>
 <li><a href="listar">Listar</a></li>
 <li><a href="insertar?palabra=hola">Insertar</a></li>
+<form action="insertar">
+	<input type="text" name="palabra" value="inserte">
+</form>
 </ul>
 </body>
 </html>
