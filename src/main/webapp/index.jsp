@@ -14,6 +14,7 @@
 <li><a href="insertar?palabra=hola">Insertar</a></li>
 <form action="insertar">
 	<input type="text" name="palabra" value="inserte">
+	<input type="submit" value="traducir">
 </form>
 </ul>
 </body>
